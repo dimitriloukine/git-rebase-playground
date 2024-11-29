@@ -12,3 +12,8 @@
 ## Edit a commit
 
 use the `edit` keyword in the todo to modify a commit. You have to stage files and amend the commit.
+
+## Untrack a file
+
+`git rm -r --cached <file>` 
+  `--cached` means we do not delete the file.
