@@ -25,3 +25,7 @@ use the `reword` keyword in the todo to reword the commit message of the commit.
 ## Drop a commit
 
 use the `drop` keyword in the todo to get rid of a commit.
+
+## Squash a commit
+
+use the `squash` keyword in the todo to squash the commit into the previous commit.
