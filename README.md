@@ -21,3 +21,7 @@ use the `edit` keyword in the todo to modify a commit. You have to stage files a
 ## Reword a commit message
 
 use the `reword` keyword in the todo to reword the commit message of the commit.
+
+## Drop a commit
+
+use the `drop` keyword in the todo to get rid of a commit.
