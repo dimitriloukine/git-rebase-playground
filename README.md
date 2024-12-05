@@ -8,3 +8,7 @@
   the caret means, not this commit but the one before.
 `git rebase -i --root`
   `--root` means starting from the first commit.
+
+## Edit a commit
+
+use the `edit` keyword in the todo to modify a commit. You have to stage files and amend the commit.
