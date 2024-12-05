@@ -37,3 +37,8 @@ use the `break` keyword in the todo between two commits to stop at a given commi
 ## Reorder commits
 
 Just reorder the commits in the todo.
+
+## Exec a command
+
+use the `exec` keyword in the todo after a commit to with a command to exec.
+`echo "Hello World"`
