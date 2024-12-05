@@ -33,3 +33,7 @@ use the `squash` keyword in the todo to squash the commit into the previous comm
 ## Insert a commit
 
 use the `break` keyword in the todo between two commits to stop at a given commit and create a new commit here.
+
+## Reorder commits
+
+Just reorder the commits in the todo.
